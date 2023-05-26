@@ -1,4 +1,4 @@
-### Cleaning-in-SQL
+### Cleaning-in-SQL(Big Query)
 
 
 Scanned through data table manually and noticed missing/null values. Size of data set allowed me eliminate null values
