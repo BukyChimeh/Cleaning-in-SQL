@@ -26,7 +26,7 @@ Rows reduced from 921 to 665
 
 Noticed the Brand 'Samsung' had values with different cases, then changed all Brands names to Uppercase; 
 
-## To change Brand case to Upper
+## To change column 'Brand'  to Uppercase
 
 SELECT *
 FROM my-portfolio-387609.TV_Data.TV_Data
