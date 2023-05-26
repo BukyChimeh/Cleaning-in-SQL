@@ -5,13 +5,21 @@ Scanned through data table manually and noticed missing/null values. Size of dat
 ## To select all rows that did not have null values
 
 SELECT distinct *
+
 FROM my-portfolio-387609.TV_Data.TV_Data
+
 WHERE Brand IS NOT NULL
+
 AND Resolution IS NOT NULL
+
 AND Size_ IS NOT NULL
+
 AND Selling_Price IS NOT NULL
+
 AND Original_Price IS NOT NULL
+
 AND Operating_System IS NOT NULL
+
 AND Rating IS NOT NULL;
 
 Rows reduced from 921 to 665
